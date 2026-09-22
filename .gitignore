@@ -11,4 +11,3 @@ venv/
 .ruff_cache/
 ~$*
 *.tmp
-

@@ -1,4 +1,4 @@
-﻿Country,Numeracy_Score,Wage_Metric,Wage_Unit,Survey_Year,Source_Numeracy,Source_Wage
+Country,Numeracy_Score,Wage_Metric,Wage_Unit,Survey_Year,Source_Numeracy,Source_Wage
 Austria,274.496739,29.02369513,2022 USD PPP per hour,2022-2023 (PIAAC Cycle 2; named 2023),https://stat.link/files/b263dc5d-en/smlvj6.xlsx | A.4.1 (N) | B8,https://stat.link/files/b263dc5d-en/smlvj6.xlsx | A.4.7 (N) | AB8
 Canada,278.4229085,26.84711717,2022 USD PPP per hour,2022-2023 (PIAAC Cycle 2; named 2023),https://stat.link/files/b263dc5d-en/smlvj6.xlsx | A.4.1 (N) | B9,https://stat.link/files/b263dc5d-en/smlvj6.xlsx | A.4.7 (N) | AB9
 Chile,211.4039695,8.214082387,2022 USD PPP per hour,2022-2023 (PIAAC Cycle 2; named 2023),https://stat.link/files/b263dc5d-en/smlvj6.xlsx | A.4.1 (N) | B10,https://stat.link/files/b263dc5d-en/smlvj6.xlsx | A.4.7 (N) | AB10
